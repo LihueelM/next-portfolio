@@ -1,0 +1,21 @@
+[
+    {
+        "name":  "Bookstrap",
+        "image": "/./assets/bookstore.png",
+        "description": "Proyecto E-commerce realizado con React.js y Firebase",
+        "link":"https://github.com/LihueelM/BookStore-react"
+    },
+    {
+        "name":  "Critical Games",
+        "image": "/./assets/critical-games.png",
+        "description": "Proyecto realizado con HTML5, CSS3 y Bootstrap" ,
+        "link": "https://github.com/LihueelM/CoderHouse-ProgramacionWeb"
+    },
+    {
+        "name":  "Orwell Drink's",
+        "image": "/./assets/drinks.png",
+        "description": "Proyecto E-commerce realizado con HTML5, CSS3 y JavaScript ES6 ",
+        "link": "https://github.com/LihueelM/Ecommerce---Javascript-Vanilla"
+    }
+]
+    
