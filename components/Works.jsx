@@ -14,7 +14,7 @@ const Works = () => {
         <Row> 
           <Col className='md={2} sm={6} xs={12} d-flex flex-column col-works'>
             <h2>BookStrap</h2>
-            <Link href='"https://github.com/LihueelM/BookStore-react"' alt='proyecto' target='_blank'>                    
+            <Link href="https://github.com/LihueelM/BookStore-react" alt='proyecto' target='_blank'>                    
               <Image src={img1} alt='bookstore' width={380} height={240} className='img-works '/>                    
             </Link>         
             <h5>Proyecto E-commerce realizado con React.js y Firebase</h5>         
