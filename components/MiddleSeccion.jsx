@@ -20,12 +20,12 @@ const MiddleSeccion = () => {
                         <p className='parrafo'>Focalizado en entregar una experiencia amena tanto en dispositivos móviles como desktop</p>
                     </Col>
                     <Col md={3} xs={12} sm={6}>
-                        <Image src={thinking} alt='Resolve Problems' width={250} className='img-fluid'/>
+                        <Image src={gear} alt='Resolve Problems' width={250} className='img-fluid'/>
                         <h3>Resolucion de problemas</h3>
                         <p className='parrafo'>Determinacion al resolver problemas e idear nuevas formas de realizar un trabajo de forma optima.</p>
                     </Col>
                     <Col md={3} xs={12} sm={6}>
-                        <Image src={gear} alt='Great Ideas' width={250} className='img-fluid'/>
+                        <Image src={thinking} alt='Great Ideas' width={250} className='img-fluid'/>
                         <h3>Grandes ideas</h3>
                         <p className='parrafo'>Gran creatividad al desarrollar trabajos, tanto en el apartado visual como en el programatico.</p>
                     </Col>
